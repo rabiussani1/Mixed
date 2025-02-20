@@ -138,6 +138,25 @@ https://fifabd.site/OPLLX3/play.m3u8?id=363006|Referer=RANAPK
 #EXTINF:-1,WILDLIFE HINDI
 https://fifabd.site/OPLLX3/play.m3u8?id=363002|Referer=RANAPK
 
+#EXTINF:-1,National Geopraphy HD
+http://103.115.126.26:8000/play/a054/index.m3u8
+#EXTINF:-1,Ndtv 
+http://103.115.126.26:8000/play/a08l/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://103.115.126.26:8000/play/a051/index.m3u8
+#EXTINF:-1,TLC HD
+http://103.115.126.26:8000/play/a050/index.m3u8
+#EXTINF:-1,SONY BBC Earth
+http://103.115.126.26:8000/play/a04n/index.m3u8
+#EXTINF:-1,Discover HD
+http://103.115.126.26:8000/play/a057/index.m3u8
+#EXTINF:-1,Epic
+http://103.115.126.26:8000/play/a03g/index.m3u8
+#EXTINF:-1,History TV18 HD
+http://103.115.126.26:8000/play/a04m/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://103.115.126.26:8000/play/a089/index.m3u8
+
 
 #EXTINF:-1,CARTOON NETWORK
 https://fifabd.site/OPLLX3/play.m3u8?id=150478|Referer=RANAPK
@@ -216,6 +235,11 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1,Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,BBC News
+http://103.115.126.26:8000/play/a087/index.m3u8
+#EXTINF:-1,CCN
+http://103.115.126.26:8000/play/a08b/index.m3u8
+
 #EXTINF:-1 , MTV HD +
 https://fifabd.site/OPLLX3/play.m3u8?id=206049|Referer=RANAPK
 #EXTINF:-1,MTV INDIA
@@ -241,6 +265,16 @@ https://fifabd.site/OPLLX3/play.m3u8?id=368954|Referer=RANAPK
 #EXTINF:-1 ,CID | 24X7 
 https://fifabd.site/OPLLX3/play.m3u8?id=378909|Referer=RANAPK
 
+#EXTINF:-1,SET HD
+http://103.115.126.26:8000/play/a03j/index.m3u8
+#EXTINF:-1,MTV HD
+http://103.115.126.26:8000/play/a05n/index.m3u8
+#EXTINF:-1,Colors HD
+http://103.115.126.26:8000/play/a03m/index.m3u8
+#EXTINF:-1,STAR PLUS HD
+http://103.115.126.26:8000/play/a03k/index.m3u8
+#EXTINF:-1,SONY SAB HD
+http://103.115.126.26:8000/play/a068/index.m3u8
 
 
 
@@ -321,6 +355,25 @@ https://fifabd.site/OPLLX3/play.m3u8?id=112973|Referer=RANAPK
 #EXTINF:-1, DHINCHAAK
 https://fifabd.site/OPLLX3/play.m3u8?id=374980|Referer=RANAPK
 
+#EXTINF:-1,&Private HD
+http://103.115.126.26:8000/play/a056/index.m3u8
+#EXTINF:-1,&Flix HD
+http://103.115.126.26:8000/play/a07i/index.m3u8
+#EXTINF:-1,&Picture
+http://103.115.126.26:8000/play/a04q/index.m3u8
+#EXTINF:-1,&TV HD
+http://103.115.126.26:8000/play/a04r/index.m3u8
+#EXTINF:-1,STAR GOLD HD
+http://103.115.126.26:8000/play/a08u/index.m3u8
+#EXTINF:-1,STAR MOVIE HD
+http://103.115.126.26:8000/play/a05s/index.m3u8
+#EXTINF:-1,STAR MOVIE SELECT HD
+http://103.115.126.26:8000/play/a080/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://103.115.126.26:8000/play/a03r/index.m3u8
+#EXTINF:-1,SONY PIX HD
+http://103.115.126.26:8000/play/a05q/index.m3u8
+
 
 #EXTINF:-1, STAR MOVIES FHD
 https://fifabd.site/OPLLX3/play.m3u8?id=66213|Referer=RANAPK
@@ -352,6 +405,31 @@ https://fifabd.site/OPLLX3/play.m3u8?id=66313|Referer=RANAPK
 https://fifabd.site/OPLLX3/play.m3u8?id=66315|Referer=RANAPK
 #EXTINF:-1, MN+ HD
 https://fifabd.site/OPLLX3/play.m3u8?id=66244|Referer=RANAPK
+
+#EXTINF:-1,Aaj Tak
+http://103.115.126.26:8000/play/a085/index.m3u8
+#EXTINF:-1,Colors Cineplex HD
+http://103.115.126.26:8000/play/a03v/index.m3u8
+#EXTINF:-1,India Today
+http://103.115.126.26:8000/play/a08m/index.m3u8
+#EXTINF:-1,MN+ HD
+http://103.115.126.26:8000/play/a04t/index.m3u8
+#EXTINF:-1,MNX HD
+http://103.115.126.26:8000/play/a04w/index.m3u8
+#EXTINF:-1,MTV Beats HD
+http://103.115.126.26:8000/play/a05u/index.m3u8
+#EXTINF:-1,Movies Now HD
+http://103.115.126.26:8000/play/a04z/index.m3u8
+#EXTINF:-1,STAR BHARAT HD
+http://103.115.126.26:8000/play/a02o/index.m3u8
+#EXTINF:-1,STAR GOLD 2 HD
+http://103.115.126.26:8000/play/a08w/index.m3u8
+#EXTINF:-1,STAR GOLD SELECT HD
+http://103.115.126.26:8000/play/a04o/index.m3u8
+#EXTINF:-1,ZEE CINEEMA HD
+http://103.115.126.26:8000/play/a044/index.m3u8
+#EXTINF:-1,ZEETV HD
+http://103.115.126.26:8000/play/a049/index.m3u8
 
 #EXTINF:-1    ,01 TOLLYWOOD MOVIES 24/7
 https://fifabd.site/OPLLX3/play.m3u8?id=253596|Referer=RANAPK
@@ -513,3 +591,26 @@ https://fifabd.site/OPLLX3/play.m3u8?id=346382|Referer=RANAPK
 https://fifabd.site/OPLLX3/play.m3u8?id=346383|Referer=RANAPK
 #EXTINF:-1 ,EUROSPORT 1
 https://fifabd.site/OPLLX3/play.m3u8?id=346388|Referer=RANAPK
+
+#EXTINF:-1,STAR SPORT 1 HD
+http://103.115.126.26:8000/play/a03l/index.m3u8
+#EXTINF:-1,STAR SPORT 1 HINDI
+http://103.115.126.26:8000/play/a083/index.m3u8
+#EXTINF:-1,STAR SPORTS 2 HD
+http://103.115.126.26:8000/play/a039/index.m3u8
+#EXTINF:-1,STAR SPORT 3
+http://103.115.126.26:8000/play/a07s/index.m3u8
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
+http://103.115.126.26:8000/play/a042/index.m3u8
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
+http://103.115.126.26:8000/play/a043/index.m3u8
+#EXTINF:-1,SPORT 18 HD
+http://103.115.126.26:8000/play/a07b/index.m3u8
+#EXTINF:-1,SONY  SPORTS TEN 1 HD
+http://103.115.126.26:8000/play/a07w/index.m3u8
+#EXTINF:-1,SONY  SPORTS TEN 2 HD
+http://103.115.126.26:8000/play/a05o/index.m3u8
+#EXTINF:-1,SONY  SPORTS TEN 3 HD
+http://103.115.126.26:8000/play/a07y/index.m3u8
+#EXTINF:-1,SONY  SPORTS TEN 5 HD
+http://103.115.126.26:8000/play/a07z/index.m3u8
